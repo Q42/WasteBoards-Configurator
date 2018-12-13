@@ -6,7 +6,7 @@ The **wasteboards configurator** is a simple tool that allows the user to 'paint
 The project is made with the game engine **Construct 3** and requires a **Construct 3 license** to run, edit and build.
 A construct 3 project file is a folder structure inside a .zip archive with the extension renamed to .c3p
 
-The game engine opens these .c3p files. You'll find the .c3p in the **source** folder.
+The game engine opens these .c3p files. You'll find the .c3p in the project root.
 
 ### Building the project
 Simply open the .c3p file and choose **Menu -> Project -> Export** to open the build menu.
