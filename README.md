@@ -86,3 +86,7 @@ Make sure to use the correct name in the function call, otherwise the cap select
 
 ### Randomizing cap placement
 A requested feature was to add random Coca Cola caps while the user is painting with the color red. I've included an example on how to implement a feature like this. You can find the example by doing a project search for **'Random Caps'.**
+
+### cap psd's
+The psd's for the caps are included in the project. The texture resolutions have been chosen with performance in mind.
+You can use other resolutions for the cap textures, but some adjustments might need to be made inside Construct to make sure they display correctly. Also keep in mind there will be a performance hit if you increase texture sizes. Be sure to test on a wide range of devices before making any final size changes.
